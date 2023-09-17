@@ -1,1 +1,0 @@
-EMAIL = "hlinakcurbag@gmail.com"
